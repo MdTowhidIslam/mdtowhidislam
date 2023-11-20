@@ -24,8 +24,4 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
- ### GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=TowhidIslam002k&theme=radical&hide_border=true) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TowhidIslam002k&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
- <!-- [![](https://visitcount.itsvg.in/api?id=TowhidIslam002k&icon=1&color=11)](https://visitcount.itsvg.in) -->
+ 
